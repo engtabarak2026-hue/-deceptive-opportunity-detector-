@@ -1,0 +1,12 @@
+# كاشف الفرص الخادعة - Deceptive Opportunity Detector
+
+Explainable detector for deceptive job and migration scam emails targeting students
+
+## الفكرة
+هذا المشروع يكشف ايميلات النصب الي تستخدم اسماء شركات وهمية مثل Unibase وتطلب دفع رسوم عبر crypto.
+
+## كيف يعمل
+يفحص الكلمات المشبوهة: pay fee, urgent payment, guaranteed visa, crypto wallet
+
+## تشغيل الكود
+python detector.py
